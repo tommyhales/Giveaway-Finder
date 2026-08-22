@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+build/
+dist/
+*.spec
+
+seen_giveaways.json
+
+.env
+*.key
+*.token
+
+.vscode/
+.idea/
+
+*.log
